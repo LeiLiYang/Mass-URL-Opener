@@ -1,0 +1,10 @@
+{
+    "name": "Mass URL Opener",
+    "version": "1.0.0",
+    "description": "Open multiple URLs at a click",
+    "permissions": ["storage","tabs"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
