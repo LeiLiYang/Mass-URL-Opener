@@ -8,6 +8,7 @@ Functionalities & Characteristics:
 -  URLs are automatically saved each time there is a change in the text field
 -  Single-click on the button to open all the saved URLs
 
-![image](https://github.com/LeiLiYang/Mass-URL-Opener/assets/115513104/4311b015-3729-4097-ae70-0b4b6535a516)
+![image](https://github.com/LeiLiYang/Mass-URL-Opener/assets/115513104/1650bcd6-5fb4-477f-9a12-4e59ceb84fd7)
+
 
 Project completed in July 2023
