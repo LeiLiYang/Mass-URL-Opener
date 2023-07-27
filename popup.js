@@ -6,10 +6,6 @@ textAreaValue.addEventListener("keyup",() => {
     
 });
 
-function delay(ms) {
-    return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
 const openButton = document.getElementById("openbtn");
 openButton.addEventListener("click", () => {
     chrome.storage.sync.get(["0"], (data)=>{
